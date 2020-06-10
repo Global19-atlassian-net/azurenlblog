@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+This blog is a team effort, mostly by Microsoft employees in the Netherlands who work with Azure. Here you see an overview of [Users](https://github.com/microsoft/AzureNL/blob/master/users.md).
+
 # Useful links
 
 - [Azure portal](https://portal.azure.com) 
