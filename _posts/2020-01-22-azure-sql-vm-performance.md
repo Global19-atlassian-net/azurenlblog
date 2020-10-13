@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Caching HTTP POST calls with Azure API Management
-categories: [Azure,API,Caching]
-excerpt: You shouldn’t be caching HTTP POST calls with Azure API Management
+title:  Performance optimization of SQL Server VMs
+categories: [Azure,SQL,VM]
+excerpt: Performance is at the foundation of every successful application. When moving to the cloud, differences in underlying infrastructure characteristics may surface performance issues that were not visible on premises.
 ---
 
-Hi! Why are you here?! Don’t read this! You shouldn’t be caching HTTP POST calls with Azure API Management. At least, I cannot think of any good reason.
+Performance is at the foundation of every successful application. When moving to the cloud, differences in underlying infrastructure characteristics may surface performance issues that were not visible on premises.
 
-[View original post on Medium](https://medium.com/@jochenvanwylick/caching-http-post-calls-with-azure-api-management-bcd00999d529)
+[View original post on GitHub](https://github.com/Hevand/SQLServerDiskPerformance)
