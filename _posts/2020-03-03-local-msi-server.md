@@ -1,3 +1,4 @@
+---
 layout: GitHub repo
 title:  Local Managed Identity Server for development
 categories: [App Service, Identity Server]

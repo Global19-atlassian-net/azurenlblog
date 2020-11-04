@@ -1,3 +1,4 @@
+---
 layout: GitHub repo
 title:  IoT Patterns - Managed IoT Data Services
 categories: [IoT data services]

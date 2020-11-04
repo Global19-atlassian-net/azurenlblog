@@ -1,3 +1,4 @@
+---
 layout: GitHub repo
 title:  Azure IoT ednge Lab
 categories: [Azure IoT Edge]

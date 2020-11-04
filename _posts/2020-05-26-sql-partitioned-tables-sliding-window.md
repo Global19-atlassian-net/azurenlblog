@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Partitioned tables with a sliding window
-categories: [Azure SQL,partitioning,data factory]
+categories: [Azure,SQL,partitioning,data factory]
 excerpt: Showcase on how to do partitioned tables on Azure SQL Databases with sliding windows.
 ---
 
