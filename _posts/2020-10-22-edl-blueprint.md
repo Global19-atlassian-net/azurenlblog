@@ -1,5 +1,5 @@
 ---
-layout: GitHub repo
+layout: post
 title: Enterprise Data Lake Blueprint
 categories: [Azure,DataLake]
 excerpt: Enterprise Data Lake Blueprint

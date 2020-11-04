@@ -1,7 +1,7 @@
 ---
-layout: GitHub repo
+layout: post
 title:  Local Managed Identity Server for development
-categories: [App Service, Identity Server]
+categories: [AppService,IdentityServer]
 excerpt: Managed identities for Azure resources allow app builders to connect to cloud services without using credentials. The identity is managed by the Azure platform and does not require you to provision or rotate any secrets. 
 ---
 
