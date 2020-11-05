@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Enterprise Data Lake Blueprint
-categories: [Azure,DataLake]
+categories: [Data,AI]
 excerpt: Enterprise Data Lake Blueprint
 ---
 
 This project helps to setup an modern data warehousing architecture project on Azure.
 
-[View original post on Medium](https://github.com/sarathsasidharan/edl-blueprint)
+[View original post](https://github.com/sarathsasidharan/edl-blueprint)
