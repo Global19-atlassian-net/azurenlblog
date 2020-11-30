@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Migrate of StorSimple data to Azure Files 
+title: Migrate StorSimple data to Azure Files 
 categories: [Apps,Infra]
 excerpt: Migrate of StorSimple data to Azure Files
 ---
